@@ -1,33 +1,33 @@
 [[cuQuantum]]
 arch = "x86_64"
 cuda = "11.0"
-git-tree-sha1 = "7804135a1530034ccfc8f3a8ed8baee08ae04956"
+git-tree-sha1 = "8299f22ebf830c99674744531ee053d528c17f72"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cuQuantum.download]]
-    sha256 = "8f58838c6ad87aa456824fdab90f9a8f45893fae19a1d539101867377b9ba2ef"
-    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v0.1.30+1/cuQuantum.v0.1.30.x86_64-linux-gnu-cuda+11.0.tar.gz"
+    sha256 = "97b09666fe9c83ccec0e19cccab9838901f2cf8fde24e7b6422b3e002e29361b"
+    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v22.7.114+1/cuQuantum.v22.7.114.x86_64-linux-gnu-cuda+11.0.tar.gz"
 [[cuQuantum]]
 arch = "powerpc64le"
 cuda = "11.0"
-git-tree-sha1 = "eec9bc039bd2adddfae5ca63cd82aed4ae786e5d"
+git-tree-sha1 = "6dbff669441ddf8d5c7a1584b977709442d1b68c"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cuQuantum.download]]
-    sha256 = "4b8f9ff70a127d9715cd0a9e709f61c1ff425478e5870965da37eb4efc62d179"
-    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v0.1.30+1/cuQuantum.v0.1.30.powerpc64le-linux-gnu-cuda+11.0.tar.gz"
+    sha256 = "3292180d606a17059b71847ddc178d2f0fa4c4d87ab1d1294218934c5ac58402"
+    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v22.7.114+1/cuQuantum.v22.7.114.powerpc64le-linux-gnu-cuda+11.0.tar.gz"
 [[cuQuantum]]
 arch = "aarch64"
 cuda = "11.0"
-git-tree-sha1 = "515a8ef2803f20e70d088a5283a3a5f0115d2b6e"
+git-tree-sha1 = "2ce2a23a327435af20db7bb2940d75d46a1e33fa"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cuQuantum.download]]
-    sha256 = "cb81c306f1f7c845f2b390608c2920392be916c0255f88d7f578708ddaf8678e"
-    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v0.1.30+1/cuQuantum.v0.1.30.aarch64-linux-gnu-cuda+11.0.tar.gz"
+    sha256 = "dfda5bfba2d608000f80d93ff9e2d1f5c57bce9723126266b517572b9e86eba3"
+    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v22.7.114+1/cuQuantum.v22.7.114.aarch64-linux-gnu-cuda+11.0.tar.gz"
