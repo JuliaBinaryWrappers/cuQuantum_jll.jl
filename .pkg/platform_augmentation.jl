@@ -11,6 +11,9 @@ function cuda_comparison_strategy(a::String, b::String, a_requested::Bool, b_req
     if a == "none" || b == "none"
         return false
     end
+    if a == "local" || b == "local"
+        return a == b
+    end
     a = VersionNumber(a)
     b = VersionNumber(b)
 
