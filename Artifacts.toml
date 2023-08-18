@@ -8,7 +8,7 @@ os = "linux"
 
     [[cuQuantum.download]]
     sha256 = "723b032ac4432e8e64265e19b02b73b6d8ee6a9aac37aee35816a542c473818d"
-    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v23.6.1+0/cuQuantum.v23.6.1.x86_64-linux-gnu-cuda+11.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v23.6.1+1/cuQuantum.v23.6.1.x86_64-linux-gnu-cuda+11.0.tar.gz"
 [[cuQuantum]]
 arch = "powerpc64le"
 cuda = "11.0"
@@ -19,7 +19,7 @@ os = "linux"
 
     [[cuQuantum.download]]
     sha256 = "e2f00a98c51e2eb8fb3a457a0b42a1183c51eafc45f9a21148a4d020c9d2a3d5"
-    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v23.6.1+0/cuQuantum.v23.6.1.powerpc64le-linux-gnu-cuda+11.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v23.6.1+1/cuQuantum.v23.6.1.powerpc64le-linux-gnu-cuda+11.0.tar.gz"
 [[cuQuantum]]
 arch = "aarch64"
 cuda = "11.0"
@@ -30,7 +30,7 @@ os = "linux"
 
     [[cuQuantum.download]]
     sha256 = "b5f445ab1e332c3ffe6e72549de80d898fe2fbcaa7e9e2f313d1232a9c84768a"
-    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v23.6.1+0/cuQuantum.v23.6.1.aarch64-linux-gnu-cuda+11.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v23.6.1+1/cuQuantum.v23.6.1.aarch64-linux-gnu-cuda+11.0.tar.gz"
 [[cuQuantum]]
 arch = "x86_64"
 cuda = "12.0"
@@ -41,7 +41,7 @@ os = "linux"
 
     [[cuQuantum.download]]
     sha256 = "ae984475468f5eaf47e5e6193ce3c9f5af7ab351c1bbb90c471ecc2a315e777a"
-    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v23.6.1+0/cuQuantum.v23.6.1.x86_64-linux-gnu-cuda+12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v23.6.1+1/cuQuantum.v23.6.1.x86_64-linux-gnu-cuda+12.0.tar.gz"
 [[cuQuantum]]
 arch = "powerpc64le"
 cuda = "12.0"
@@ -52,7 +52,7 @@ os = "linux"
 
     [[cuQuantum.download]]
     sha256 = "5f6d52fb09b587228b56d2807ed3bee22abbed80ff0594a741c33ca9525eb987"
-    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v23.6.1+0/cuQuantum.v23.6.1.powerpc64le-linux-gnu-cuda+12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v23.6.1+1/cuQuantum.v23.6.1.powerpc64le-linux-gnu-cuda+12.0.tar.gz"
 [[cuQuantum]]
 arch = "aarch64"
 cuda = "12.0"
@@ -63,4 +63,4 @@ os = "linux"
 
     [[cuQuantum.download]]
     sha256 = "20c046047b551cde5793ea95c58c19ff678086838f108c96482a51973941583d"
-    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v23.6.1+0/cuQuantum.v23.6.1.aarch64-linux-gnu-cuda+12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v23.6.1+1/cuQuantum.v23.6.1.aarch64-linux-gnu-cuda+12.0.tar.gz"
