@@ -1,6 +1,6 @@
 name = "cuQuantum_jll"
 uuid = "b75408ef-6fdf-5d74-b65a-7df000ad18e6"
-version = "24.11.0+0"
+version = "25.3.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -16,6 +16,6 @@ JLLWrappers = "1.7.0"
 julia = "1.6"
 LazyArtifacts = "< 0.0.1, 1"
 Libdl = "< 0.0.1, 1"
-CUTENSOR_jll = "2.0"
+CUTENSOR_jll = "2.2"
 TOML = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
