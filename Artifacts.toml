@@ -2,45 +2,45 @@
 arch = "x86_64"
 cuda = "12.0"
 cuda_platform = "sbsa"
-git-tree-sha1 = "127942e08fa8b54c3eb6e4152baf7a00c8953d91"
+git-tree-sha1 = "79d27156cbf6b4e8c45bb817da952fb76e668baf"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cuQuantum.download]]
-    sha256 = "dd78fc33e5833c3a9b597b5d8698b6fd1cb0b17b285fa0e15332241e7568ec20"
-    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v25.9.0+0/cuQuantum.v25.9.0.x86_64-linux-gnu-cuda_platform+sbsa-cuda+12.0.tar.gz"
+    sha256 = "c1fa8f577b2fec74014cda285a19a723d54f8213c976f5a52c18295da213147c"
+    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v25.11.0+0/cuQuantum.v25.11.0.x86_64-linux-gnu-cuda_platform+sbsa-cuda+12.0.tar.gz"
 [[cuQuantum]]
 arch = "aarch64"
 cuda = "12.0"
 cuda_platform = "sbsa"
-git-tree-sha1 = "f067b6fde6ff80300d5c70f865d49f5754987d41"
+git-tree-sha1 = "666224c72388c7acad8a056751605e9b146297d8"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cuQuantum.download]]
-    sha256 = "4dbc55a4504cc6f5f45e5d172b0f02d4d936fb9392557490e9b71c05979c793b"
-    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v25.9.0+0/cuQuantum.v25.9.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.0.tar.gz"
+    sha256 = "8f9906f155df00cc5923b7eb79f05d84d16f9c4b85d1e39665712d027bea37d1"
+    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v25.11.0+0/cuQuantum.v25.11.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.0.tar.gz"
 [[cuQuantum]]
 arch = "x86_64"
 cuda = "13.0"
-git-tree-sha1 = "747e0757bc02b9f6c1f4e9883c6fea78ed5f5145"
+git-tree-sha1 = "54a2b3a9209274ad5213f37b349eee85f46dcbdd"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cuQuantum.download]]
-    sha256 = "11191d474d33e2f5bd039ed280d2149ee733405739641ace9f90d1e9855b1123"
-    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v25.9.0+0/cuQuantum.v25.9.0.x86_64-linux-gnu-cuda+13.0.tar.gz"
+    sha256 = "85868713adbae582a4d661fe9df88b83c527dc09e06e3d882a9960c4cb8395ae"
+    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v25.11.0+0/cuQuantum.v25.11.0.x86_64-linux-gnu-cuda+13.0.tar.gz"
 [[cuQuantum]]
 arch = "aarch64"
 cuda = "13.0"
-git-tree-sha1 = "af75668d4a4952b0af7cadff243728d94acd09c4"
+git-tree-sha1 = "58587af7863263e5fb40261feb0cebfa8faa7d93"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cuQuantum.download]]
-    sha256 = "e78ae5387856850f789886ceb0c207d477284eaaf17d36c10964a5650d04faaa"
-    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v25.9.0+0/cuQuantum.v25.9.0.aarch64-linux-gnu-cuda+13.0.tar.gz"
+    sha256 = "55a0f69febc5a977bf840675059b53a544fa5afb015982e02a6136c7e82684b0"
+    url = "https://github.com/JuliaBinaryWrappers/cuQuantum_jll.jl/releases/download/cuQuantum-v25.11.0+0/cuQuantum.v25.11.0.aarch64-linux-gnu-cuda+13.0.tar.gz"
